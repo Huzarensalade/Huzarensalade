@@ -1,2 +1,5 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Huzarensalade&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzarensalade&langs_count=5&theme=tokyonight)]()
+![](https://raw.githubusercontent.com/Huzarensalade/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Huzarensalade/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Huzarensalade/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Huzarensalade/github-stats/master/generated/languages.svg#gh-light-mode-only)
